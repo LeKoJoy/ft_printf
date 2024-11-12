@@ -8,6 +8,6 @@ This is my "FT_PRINTF" project. You can see the way I created
 To run tester you need to drop the "printfTester" folder in your project folder than follow next steps in terminal: 1️⃣```cd testerPrintf```  ->  2️⃣```make m```.
 The tester is made by ```https://github.com/Tripouille/printfTester```
 
+I wish you good luck in 42School
 
-Look at the project below.
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+And remember, the key to succes is number 42
